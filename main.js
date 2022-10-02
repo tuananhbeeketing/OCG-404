@@ -67,7 +67,7 @@ function init() {
 
     scene = new THREE.Scene();
 
-    const loader = new THREE.GLTFLoader().setPath( 'Models/' );
+    const loader = new THREE.GLTFLoader().setPath( 'https://tuananhbeeketing.github.io/OCG-404/Models/' );
 						loader.load( '404.gltf', function ( gltf ) {
                             model = gltf;
 							scene.add( model.scene );
