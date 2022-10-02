@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    font-family: Helvetica, FreeSans, Arial, sans-serif;
+    font-size: 10px;
+    background-image: linear-gradient(to top, #020a20, #001d45, #002c6e, #003b98, #0049c4, #005fd8, #0075ec, #008bff, #00a6ff, #00bdff, #00d0f2, #00e1e1);
+    background-color: #005BFF; /*565646*/
+}
+
+div {
+    opacity: 0.36;
+}
+
+#content_text {
+    align-content: center;
+}
